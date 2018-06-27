@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**coverage": true,
+    "**dist": true,
+    "**es": true,
+    "**lib": true,
+    "**yarn.lock": true,
+    "**.jenkins": true,
+    "**LICENSE": true,
+    "**.vscode": true
+  }
+}
